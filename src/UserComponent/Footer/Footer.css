@@ -1,0 +1,417 @@
+.footer{
+    margin: a auto;
+    width: 100%;
+   background: #181a1b;
+   padding: 0 10%;
+}
+.footer-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5% 0%;
+}
+
+.footer-left{
+    margin-right: 10%;
+}
+.footer-content h1{
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+    border-bottom: 2px solid red;
+}
+.footer-content ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+.footer-content li {
+    list-style: none;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-content a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-content i{
+    margin-right: 2%;
+}
+.footer-content .footer-center h2 {
+   font-size: 20px;
+   color: khaki;
+}
+.footer-content .footer-center p{
+    font-size: 14px;
+    margin-left: 4%;
+    color: white;
+}
+.footer-content .footer-center li {
+    margin-bottom: 2%;
+    color: khaki;
+}
+.footer-content a:hover{
+    color: khaki;
+}
+.footer-right{
+    width: 25%;
+}
+/* ===========================================mobile-1================================================== */
+.footer-mobile-1{
+    margin: a auto;
+    width: 100%;
+    background-image: url(../../img/bg_footer.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.footer-mobile-1 .footer-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0%;
+}
+
+.footer-mobile-1 .footer-content h1{
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 0.8em;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+    border-bottom: 2px solid red;
+}
+.footer-mobile-1 .footer-content ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+.footer-mobile-1 .footer-content li {
+    list-style: none;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-1 .footer-content a{
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-1 .footer-content i{
+    margin-right: 2%;
+}
+.footer-mobile-1 .footer-content .footer-center h2 {
+   font-size: 13px;
+   color: khaki;
+}
+.footer-mobile-1 .footer-content .footer-center p{
+    font-size: 10px;
+    margin-left: 4%;
+    color: white;
+}
+.footer-mobile-1 .footer-content .footer-center li {
+    margin-bottom: 2%;
+    color: khaki;
+}
+.footer-mobile-1 .footer-content a:hover{
+    color: khaki;
+}
+
+
+/* ===========================================mobile-2================================================== */
+.footer-mobile-2{
+    margin: a auto;
+    width: 100%;
+    background-image: url(../../img/bg_footer.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.footer-mobile-2 .footer-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0%;
+}
+
+.footer-mobile-2 .footer-content h1{
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 16px;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+    border-bottom: 2px solid red;
+}
+.footer-mobile-2 .footer-content ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+.footer-mobile-2 .footer-content li {
+    list-style: none;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-2 .footer-content a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-2 .footer-content i{
+    margin-right: 2%;
+}
+.footer-mobile-2 .footer-content .footer-center h2 {
+   font-size: 14px;
+   color: khaki;
+}
+.footer-mobile-2 .footer-content .footer-center p{
+    font-size: 12px;
+    margin-left: 4%;
+    color: white;
+}
+.footer-mobile-2 .footer-content .footer-center li {
+    margin-bottom: 2%;
+    color: khaki;
+    font-size: 14px;
+}
+.footer-mobile-2 .footer-content a:hover{
+    color: khaki;
+}
+
+
+/* ===========================================mobile-3================================================== */
+.footer-mobile-3{
+    margin: a auto;
+    width: 100%;
+    background-image: url(../../img/bg_footer.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+.footer-mobile-3 .footer-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0%;
+}
+
+.footer-mobile-3 .footer-content h1{
+
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+    border-bottom: 2px solid red;
+}
+.footer-mobile-3 .footer-content ul {
+    margin: 0 auto;
+    width: 100%;
+    padding: 0;
+}
+.footer-mobile-3 .footer-content li {
+    list-style: none;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-3 .footer-content a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+        1px 1px 1px #919191,
+    1px 6px 6px rgba(16,16,16,0.4),
+    1px 6px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 6px 60px rgba(16,16,16,0.4);
+}
+.footer-mobile-3 .footer-content i{
+    margin-right: 2%;
+}
+.footer-mobile-3 .footer-content .footer-center h2 {
+   font-size: 14px;
+   color: khaki;
+}
+.footer-mobile-3 .footer-content .footer-center p{
+    font-size: 8px;
+    margin-left: 4%;
+    color: white;
+}
+.footer-mobile-3 .footer-content .footer-center li {
+    margin-bottom: 2%;
+    color: khaki;
+    font-size: 12px;
+}
+.footer-mobile-3 .footer-content a:hover{
+    color: khaki;
+}

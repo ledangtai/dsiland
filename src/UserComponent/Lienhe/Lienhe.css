@@ -1,0 +1,111 @@
+.dangki h1{
+    background-color: #ffffffd2;
+    width: auto;
+    text-align: center;
+    font-size: 22px;
+    color: #0A2453;
+    margin-bottom: 5%;
+    padding: 10px;
+    opacity: 0.7;
+}
+.lienhe{
+    padding: 2% 0 5% 0;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(../../img/bg8.jpg);
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% 50%;
+}
+.lienhe-form{
+    width: 100%;
+    display: flex;
+    
+}
+.lienhe-form form{
+    width: 100%;
+    margin-right: 2%;
+    border: 2px dashed #eda74b !important;
+    padding: 10px !important;
+    background: rgba(10, 36, 83, 0.82) !important;
+   
+}
+.lienhe-form form .modal-body{
+    border-radius: 10px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+.lienhe-form form input{
+    margin: 2% 0;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    padding: 0 .75em;
+    height: 2.507em;
+    font-size: .97em;
+    border-radius: 5px;
+    max-width: 100%;
+    width: 100%;
+    vertical-align: middle;
+    background-color: #fff;
+    color: #333;
+    box-shadow: inset 0 1px 2px rgb(0 0 0 / 10%);
+}
+.lienhe-form form textarea{
+    margin: 2% 0;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    padding: 0 .75em;
+    height: 2.507em;
+    font-size: .97em;
+    border-radius: 5px;
+    max-width: 100%;
+    width: 100%;
+    vertical-align: middle;
+    background-color: #fff;
+    color: #333;
+    box-shadow: inset 0 1px 2px rgb(0 0 0 / 10%);
+    height: 100px;
+}
+.lienhe-form form button {
+    border: 2px dashed #eda74b !important;
+    background-color: #0A2453;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: .97em;
+    letter-spacing: .03em;
+    font-weight: bolder;
+}
+.lienhe-form .hotline{
+    width: 44%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 2%;
+}
+.lienhe-form .hotline h2{
+    color: #b48d4c;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+}
+.lienhe-form .hotline p{
+    color: #212121;
+}
+.lienhe-form .hotline h3{
+    font-size: 91%;
+}
+.lienhe-form .hotline .sdt{
+    border: 2px dashed#223962;
+    padding: 10px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #b48d4c;
+    margin-bottom: 0px;
+    margin-top: 44px;
+}
+.lienhe-form .hotline .sdt i{
+    background-color: #b48d4c;
+    color: #ffffff;
+    padding: 1% 2%;
+    border-radius: 10px;
+}

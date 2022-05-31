@@ -1,0 +1,27 @@
+.contacts-form{
+    margin: 0;
+    padding: 2.1em 2.2em 2.1em 2.2em;
+    background: #edf1f2;
+    float: right;
+    border-radius: 10px;
+    width: 40%;
+}
+.contacts{
+    margin: 2% 0;
+}
+.contacts-content {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 5% 0 !important;
+}
+.content-contact{
+    width: 59%;
+    margin-right: 2%;
+}
+.content-contact h1{
+    font-family: Roboto,sans-serif;
+    font-size: 2.5em;
+    font-weight: 300;
+}

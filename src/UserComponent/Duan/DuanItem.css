@@ -1,0 +1,124 @@
+.duanItem{
+    padding: 5% 0;
+    margin: 0 auto;
+    display: flex;
+}
+.duanItem-mobile{
+    display:  block !important;
+}
+.duanItem .left {
+    width: 80%;
+    padding: 1%;
+    margin-right: 2%;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    border-radius: 5px;
+}
+.duanItem .left-mobile{
+    width: 100% !important;
+}
+.duanItem .left .left-tieude{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.duanItem .left .left-noidung{
+    width: 100%;
+    display: flex;
+    
+}
+.duanItem .left .left-noidung-mobile1{
+    width: 100%;
+    display: block !important;
+}
+.duanItem .left h1{
+    font-size: 26px;
+    color: #1c4199;
+    font-weight: bold;
+    font-family: 'FontAwesome';
+    line-height: 1.1;
+    margin: 0;
+   
+}
+
+.duanItem .left .left-noidung .noidung{
+    width: 60%;
+    padding:2%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 5px;
+    height: 890px;
+    overflow-y: auto;
+    display: block;
+}
+.duanItem .left .left-noidung .noidung strong{
+    color: #1c4199;
+}
+.duanItem .right{
+    width: 20%;
+    padding: 0 0 1% 0;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    height: 985px;
+}
+.duanItem .right-mobile{
+    width: 100%;
+    height: 612px;
+}
+.duanItem .right table tr td{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    text-align: center;
+    font-weight: 500;
+}
+.duanItem .right table tr td p:hover{
+    color: #1c4199;
+    font-weight: 700;
+    transition-duration: 0.5s;
+}
+.duanItem .right h1{
+    padding: 2% 0;
+    font-size: 20px;
+    color: #1c4199;
+    font-weight: 700;
+    font-family: 'FontAwesome';
+    line-height: 1.1;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 3%;
+    box-shadow: rgba(15, 78, 150, 0.4) 0px 0px 0px 2px, rgba(11, 58, 112, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.duanItem .right table{
+    height: 940px;
+    overflow-y: auto;
+    display: block;
+    cursor: pointer;
+}
+.duanItem .right-table-mobile{
+    display: flex !important;
+    height: 545px !important;
+}
+#style-1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+  }
+  
+  #style-1::-webkit-scrollbar {
+    width: 6px;
+   
+    background-color: #F5F5F5;
+  }
+  
+  #style-1::-webkit-scrollbar-thumb {
+    background-color: #1c4199;
+  }
+#style-3::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+  }
+  
+  #style-3::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+  }
+  
+  #style-3::-webkit-scrollbar-thumb {
+    background-color: #1c4199;
+  }

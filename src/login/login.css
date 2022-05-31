@@ -1,0 +1,64 @@
+.login_container{
+    background: rgba(255, 255, 255, 0.747);
+    margin-top: 10% !important;
+    padding: 5% 0%;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.login_container .login-ct .login-sp form .dangnhap-form{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    color: red;
+    padding-bottom: 1rem;
+    font-family: serif;
+    text-shadow: 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black, 1px 1px 0 black;
+}
+.login_container .input_dangnhap{
+    width: 100% ;
+    border: none;
+    height: 35px;
+    padding: 10px;
+    font-size: 16px;
+    background: transparent;
+    color: lighter;
+    
+}
+.login_container .dangnhap-button{
+    font-weight: 600;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 5%;
+    margin: auto;
+    text-align: center;
+   
+}
+.login_container .dangnhap-button button{
+    color: white;
+    width: 35%;
+    margin-top: 5%;
+    background-color:  #4B70E2;
+    font-weight: 700 !important;
+    font-size: 14px;
+    letter-spacing: 1.15px;
+    border-radius: 25px;
+    /* box-shadow: 0 2px 4px rgba(0, 71, 204, 0.2), 0 4px 8px rgba(42, 28, 237, 0.2); */
+}
+.container-fluid img {
+   background-color: #ecf0f3;
+   width: 25%;
+    position: absolute;
+    z-index: 1;
+    top: 13%;
+    left: 37%;
+}
+
+body{
+    height: 100%;
+    background-image: url('https://img4.thuthuatphanmem.vn/uploads/2019/11/27/hinh-nen-nhe-nhang-don-gian-cuc-dep_025019889.jpg');
+    background-size: cover;
+}

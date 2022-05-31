@@ -1,0 +1,164 @@
+.myItem-tintuc{
+    border: 1px solid #e5e5e5;
+    margin: 5% ;
+    overflow: hidden;
+    height: 550px;
+    position: relative;
+    cursor: pointer;
+ 
+}
+.tintuc .slick-list{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tintuc{
+    width: 95%;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5% 0;
+    background-color: white;
+  
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+}
+.tintuc-mobile{
+    width: 95%;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10% 0 !important;
+    background-color: white;
+  
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+}
+.tintuc-mobile3{
+    width: 95%;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    padding: 12% 0 !important;
+    background-color: white;
+  
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
+}
+.tintuc .xemtatca{
+    width: 100%;
+    border-bottom:1px solid #3f7df6;
+    text-align: right;
+}
+.tintuc a{
+    width: 100%;
+    font-size: 18px;
+    font-family: inherit;
+    color: white;
+    background-color: #3f7df6 ;
+    padding: 0.5% 1% 0 1%;
+    text-decoration: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.tintuc a:hover{
+    color : rgb(44, 46, 45);
+}
+.tintuc .khachhang-img{
+    margin-bottom: 1%;
+}
+.myItem-tintuc h1{
+    width:90%;
+    white-space: pre-wrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+     display: -webkit-box;
+     color: #3f7df6 ;
+     font-family: inherit;
+     font-size: 16px;
+     font-weight: 700;
+     line-height: 30px;
+     margin-top: 2%;
+     margin-left: 5%;
+}
+.myItem-tintuc .tintuc-p{
+    width:100%;
+    white-space: pre-line; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+     display: -webkit-box;
+     font-size: 15px;
+     margin-top: 1%;
+     padding: 0 2%;
+     height: auto;
+     color: #333;
+}
+.myItem-tintuc img{
+    width: 100%;
+    height: 300px;
+    border-radius: 0 !important;
+}
+.myItem-tintuc button{
+    width: 80%;
+    position: absolute;
+    padding: 3% 0;
+    border-radius: 5px;
+    color: #3f7df6 !important;
+    background-color: white;
+    border: 2px dotted #3f7df6 !important;
+    outline: 0 !important;
+    text-transform: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    bottom: 5%;
+    left: 10%;
+}
+.myItem-tintuc button:hover{
+    background-color:#3f7df6 ;
+    color: white !important;
+    transition-duration: 0.5s;
+}
+.tintuc .slick-prev{
+    color:  black !important;
+    position: absolute;
+    top: 102%;
+    left: 50%;
+    transform: translate(-100%, 0%);
+    width: 44px;
+    height: 44px;
+    border-radius: 0;
+    background: #fff !important;
+    opacity: .7;
+    border: 1px solid #e5e5e5;
+}
+.tintuc .slick-next{
+    color:  black !important;
+    position: absolute;
+    top: 102%;
+    right: 50%;
+    transform: translate(100%, 0%);
+    width: 44px;
+    height: 44px;
+    border-radius: 0;
+    background: #fff !important;
+    opacity: .7;
+    border: 1px solid #e5e5e5;
+}
+.tintuc .slick-next:hover{
+    border: 2px solid #c19b76 !important;
+}
+.tintuc .slick-prev:hover{
+    border: 2px solid #c19b76 !important;
+}
+.tintuc .slick-prev:before{
+    color:  black !important;
+   
+}
+.tintuc .slick-next:before{
+    color:  black !important;
+   
+}
+.tintuc .slick-slider{
+    position: relative;
+}

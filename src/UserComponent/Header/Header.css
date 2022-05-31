@@ -1,0 +1,133 @@
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none !important;
+}
+.header{
+    background: white;
+    height: 90px;
+    align-items: center;
+    position: relative;
+    padding: 5px;
+}
+.header .header-logo img{
+    width: 300px;
+    height: 180px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.header .header-main {
+   align-items: center;
+   position: absolute;
+   top: 35%;
+   left: 30%;
+
+}
+.header .header-main ul {
+    margin: 0;
+    padding: 0;
+}
+.header .header-main ul li{
+    text-align: center;
+}
+.header-right{
+    position: absolute;
+    top: 25%;
+    left: 82%;
+   
+}
+.header .header-main ul li a{
+    font-family: 'Maven Pro';
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #2d2d2d;
+    line-height: 1;
+
+}
+.header .header-main ul li a:hover{
+    color: red;
+}
+.header-right i {
+    margin-top: 2%;
+}
+.header-right .sdt{
+    background: red;
+    padding: 3%;
+    border-radius: 50px;
+    color: white;
+    font-family: 'Maven Pro';
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.mobile-1 .header .header-logo img{
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.mobile-2 .header .header-logo img{
+    width: 150px;
+    height: 125px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.mobile-3 .header .header-logo img{
+    width: 125px;
+    height: 80px;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.mobile-2 .header .header-main ul li a{
+    font-family: 'Maven Pro';
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #2d2d2d;
+    line-height: 1;
+
+}
+.mobile-3 .header .header-main{
+    align-items: center;
+    position: absolute;
+    top: 35%;
+    left: 0;
+}
+.mobile-3 .header .header-main nav ul li a{
+    font-family: 'Maven Pro';
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #c02323;
+    line-height: 1;
+}
+.mobile-3 .header .header-main nav{
+    position: absolute;
+    z-index: 1;
+    float: right;
+    background: rgba(255, 255, 255, 0.185);
+    width: 98%;
+    padding: 2% 5%;
+}
+.mobile-3 .header .header-main nav ul {
+    float: right;
+}
+.mobile-3 .header .header-main i{
+    float: right;
+}
+.mobile-3 .header .header-main .nav-1 {
+ display: none;
+}
+.mobile-3 .header .header-main .i-2{
+    display: none;
+}

@@ -1,0 +1,125 @@
+.Duannoibat{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 5% 5%;
+    background-color:  rgb(252, 252, 252);
+}
+.Duannoibat a {
+    text-decoration: none;
+}
+.Duannoibat li {
+    list-style: none;
+}
+
+.duannoibat-span {
+    color: #343e44;
+    font-family: 'FontMuli';
+    font-size: 24px;
+    font-weight: 700;
+}
+.duannoibat-span:hover{
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+    color: #3f7df6;
+}
+.duannoibat-dongke{
+    width: 100%;
+    height: 2px;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    background-color: #3498db;
+}
+.myItem{
+    position: absolute;
+    height: 350px;
+    position: relative;
+    border: 10px solid #ffffff;
+    box-shadow:
+            0 0 5px rgb(53, 40, 40)
+            0 1px 3px rgb(71, 57, 57),
+            0 3px 5px rgb(70, 57, 57),
+            0 5px 10px rgb(141, 116, 116),
+            0 10px 10px rgb(88, 75, 75)
+            0 20px 20px rgb(124, 103, 103);
+    margin: 1% 2%;
+    z-index: 1;
+    border: groove white;
+    padding: 2%;
+}
+
+.myItem h1{
+    width: 100%;
+    height: auto;
+    color: #343e44;
+    font-size: 95%;
+    line-height: 1.3;
+    position: absolute;
+    z-index: 1;
+    bottom: 30%;
+    font-weight: 900;
+    font-family: 'FontMuli';
+    font-size: 17px;
+    text-align: center;
+    line-height: 24px;
+}
+.myItem .ban{
+    background: #3f7df6;
+    top: 15px;
+    left: 15px;
+        position: absolute;
+        font-size: 13px;
+        line-height: 25px;
+        height: 25px;
+        padding: 0 10px;
+        border-radius: 3px;
+        z-index: 6;
+        color: #fff;
+    z-index: 1;
+}
+.myItem .hot{
+    background: #ff4a26;
+    top: 15px;
+    right: 15px;
+        position: absolute;
+        font-size: 13px;
+        line-height: 25px;
+        height: 25px;
+        padding: 0 10px;
+        border-radius: 3px;
+        z-index: 6;
+        color: #fff;
+    z-index: 1;
+}
+.myItem h1:hover{
+    
+    color: #3f7df6;
+    cursor: pointer;
+}
+.myItem .duan-button{
+    position: absolute;
+    z-index: 0;
+    bottom: 10%;
+    left: 32%;
+    border-radius: 20px;
+    padding: 1% 3%;
+    border: groove white;
+    background:#3f7df6 ;
+    font-weight: 900;
+    font-family: 'FontMuli';
+    font-size: 17px;
+    color: white;
+}
+.myItem .duan-button:hover{
+    background: crimson;
+}
+.myItem .card-img-top{
+    margin-bottom: 1%;
+    position: absolute;
+    height: 200px !important;
+    border-radius: 0 !important;
+}
+.myItem .card-img-top:hover{
+    transform: scale(1.03);
+    transition-duration: 1s;
+}
